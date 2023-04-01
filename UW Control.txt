@@ -1,0 +1,35 @@
+Deck
+3 Dovin's Veto (WAR) 193
+2 Memory Deluge (MID) 62
+2 Jwari Disruption (ZNR) 64
+2 Farewell (NEO) 13
+2 The Wandering Emperor (NEO) 42
+4 Shark Typhoon (IKO) 67
+3 Narset, Parter of Veils (WAR) 61
+3 Teferi, Hero of Dominaria (DAR) 207
+3 Supreme Verdict (RTR) 201
+3 Absorb (RNA) 151
+3 Archmage's Charm (MH1) 40
+4 March of Otherworldly Light (NEO) 28
+1 Castle Vantress (ELD) 242
+1 Plains (MIR) 331
+1 Field of Ruin (XLN) 254
+1 Glacial Fortress (XLN) 255
+1 Adarkar Wastes (DMU) 243
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Otawara, Soaring City (NEO) 271
+2 Hall of Storm Giants (AFR) 257
+2 Island (MIR) 336
+3 Hengegate Pathway (KHM) 260
+4 Hallowed Fountain (RNA) 251
+4 Deserted Beach (MID) 260
+4 Irrigated Farmland (AKR) 304
+
+Sideboard
+2 Devout Decree (M20) 13
+1 Aether Gust (M20) 42
+4 Portable Hole (AFR) 33
+1 Baneslayer Angel (M21) 6
+2 Mystical Dispute (ELD) 58
+2 Divine Purge (Y22) 4
+3 Soul-Guide Lantern (BRR) 54

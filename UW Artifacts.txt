@@ -1,0 +1,37 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Ornithopter (BRR) 37
+4 Esper Sentinel (MH2) 12
+3 Ingenious Smith (AFR) 21
+4 Michiko's Reign of Truth (NEO) 29
+4 Thought Monitor (MH2) 71
+2 Emry, Lurker of the Loch (ELD) 43
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Soul-Guide Lantern (THB) 237
+2 Barbed Spike (MH2) 5
+4 Retrofitter Foundry (C18) 57
+4 Portable Hole (AFR) 33
+3 Springleaf Drum (BRR) 55
+1 Nettlecyst (MH2) 231
+3 Metallic Rebuke (KLR) 56
+4 Darksteel Citadel (M15) 242
+1 Plains (MIR) 331
+4 Adarkar Wastes (DMU) 243
+4 Seachrome Coast (ONE) 258
+2 Razortide Bridge (MH2) 252
+3 Hallowed Fountain (RNA) 251
+1 Otawara, Soaring City (NEO) 271
+1 Mishra's Foundry (BRO) 265
+
+Sideboard
+2 Tormod's Crypt (M21) 241
+3 Glass Casket (ELD) 15
+1 Shadowspear (THB) 236
+1 Jegantha, the Wellspring (IKO) 222
+2 Thalia, Guardian of Thraben (DKA) 24
+2 Elite Spellbinder (STX) 17
+2 Thieving Skydiver (ZNR) 85
+1 Fragment Reality (Y22) 4
+1 Metallic Rebuke (KLR) 56

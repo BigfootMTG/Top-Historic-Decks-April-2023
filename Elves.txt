@@ -1,0 +1,24 @@
+Deck
+3 Allosaurus Shepherd (JMP) 28
+4 Elvish Mystic (M14) 169
+4 Llanowar Elves (M19) 314
+2 Dwynen's Elite (JMP) 389
+4 Elvish Warmaster (KHM) 167
+4 Leaf-Crowned Visionary (DMU) 167
+4 Skyshroud Lookout (J21) 30
+3 Circle of Dreams Druid (AFR) 176
+4 Elvish Archdruid (JMP) 391
+2 Realmwalker (KHM) 188
+4 Collected Company (AKR) 186
+14 Forest (MIR) 347
+3 Castle Garenbrig (ELD) 240
+2 Lair of the Hydra (AFR) 259
+2 Craterhoof Behemoth (JMP) 385
+1 Boseiju, Who Endures (NEO) 266
+
+Sideboard
+4 Shapers' Sanctuary (XLN) 206
+3 Heroic Intervention (M21) 188
+2 Ranger Class (AFR) 202
+2 Scavenging Ooze (M21) 204
+4 Reclamation Sage (M19) 196

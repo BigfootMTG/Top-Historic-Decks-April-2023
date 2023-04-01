@@ -1,0 +1,29 @@
+Deck
+4 Soul-Scar Mage
+4 A-Symmetry Sage
+4 Dreadhorde Arcanist
+3 Balmor, Battlemage Captain
+2 Brazen Borrower
+2 Svyelun of Sea and Sky
+3 Reckless Rage
+3 Consider
+4 Wizard's Lightning
+4 Expressive Iteration
+3 Strangle
+4 A-Mentor's Guidance
+1 Mountain
+1 Stormcarved Coast
+4 Spirebluff Canal
+4 Riverglide Pathway
+3 Den of the Bugbear
+4 Steam Vents
+1 Otawara, Soaring City
+1 Sokenzan, Crucible of Defiance
+1 Island
+
+Sideboard
+4 Spell Pierce
+3 Tormod's Crypt
+3 Blue Sun's Twilight
+3 Brotherhood's End
+2 Chandra, Torch of Defiance
